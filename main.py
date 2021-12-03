@@ -57,13 +57,3 @@ if __name__ == '__main__':
     }
     '''
 
-# ssh-keygen -t rsa -b 4096 -C "fannycallens@hotmail.com"
-# ssh-add -K /Users/renauddrappier/.ssh/id_rsa
-
-#git remote add origin git@github.com:fannycallens/kraken-api.git
-#git remote set-url origin git@github.com:fannycallens/kraken-api.git
-#git branch -M main
-#git push -u origin main
-#git push --set-upstream git@github.com:fannycallens/kraken-api.git master
-#git remote set-url origin https://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@github.com/fannycallens/kraken-api.git
-#git push https://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@github.com/fannycallens/kraken-api.git
